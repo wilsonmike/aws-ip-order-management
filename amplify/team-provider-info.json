@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cryptodoc-dev-94611-authRole",
+      "UnauthRoleArn": "arn:aws:iam::543580633238:role/amplify-cryptodoc-dev-94611-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::543580633238:role/amplify-cryptodoc-dev-94611-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cryptodoc-dev-94611-deployment",
+      "UnauthRoleName": "amplify-cryptodoc-dev-94611-unauthRole",
+      "StackName": "amplify-cryptodoc-dev-94611",
+      "StackId": "arn:aws:cloudformation:us-east-1:543580633238:stack/amplify-cryptodoc-dev-94611/836d8cb0-9580-11ec-8c3e-12ad470c7aaf",
+      "AmplifyAppId": "daqp8a3d2skgs"
+    },
+    "categories": {
+      "function": {
+        "cryptofunction": {
+          "deploymentBucketName": "amplify-cryptodoc-dev-94611-deployment",
+          "s3Key": "amplify-builds/cryptofunction-36636258433139335154-build.zip"
+        }
+      }
+    }
+  }
+}
